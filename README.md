@@ -1,3 +1,11 @@
+langkah push ke repo :
+
+1. git init
+2. git remote add origin "link website"
+3. git add . 
+4. git commit -m "commit"
+5. git push origin master
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
